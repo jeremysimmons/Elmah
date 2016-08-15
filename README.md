@@ -3,6 +3,8 @@
 Please read this document carefully before using this release of ELMAH as it
 contains important information.
 
+Read the articles for help getting started. [Elmah Articles][5]
+
 For peer help and support, vists the [ELMAH Discussion Group][1]. Report
 bugs and issues to the [issue tracker][2] on the [project site][3]. Avoid
 using the issue tracker to seek help with problems you are
@@ -81,3 +83,4 @@ you should consider archiving it in a backup.
  [2]: http://code.google.com/p/elmah/issues/list
  [3]: http://elmah.googlecode.com/
  [4]: http://msdn.microsoft.com/en-us/netframework/aa731542.aspx
+ [5]: https://elmah.github.io/a/
